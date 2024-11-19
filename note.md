@@ -1,0 +1,50 @@
+- .editorconfig
+  - エディタの設定ファイル
+- .eslintignore
+  - eslintの対象外の設定ファイル
+- .eslintrc.js
+  - eslintの設定
+- .git-blame-ignore-revs
+  - git blame コマンドで特定のコミットを無視する
+- .gitattributes
+  - gitがファイルを処理する際の挙動を制御
+- .gitignore
+  - gitに追跡されない
+- .mailmap
+  - コントリビューターの名前やメールアドレス
+- .nvmrc
+  - 推奨Node.jsバージョンを指定
+- .prettierignore
+  - prettierの除外ファイル
+- .prettierrc.js
+  - prettierの設定ファイル
+- .watchmanconfig
+  - Watchman（ファイル変更検知ツール）の設定
+- CHANGELOG-canary.md
+  - canary バージョンの変更履歴を記載
+- CHANGELOG.md
+  - リリースごとの変更履歴を記載
+- CODE_OF_CONDUCT.md
+  - コミュニティでの行動規範を定めたドキュメント
+- CONTRIBUTING.md
+  - コントリビューションガイド
+- LICENSE
+  - Reactの使用許諾を示すライセンスファイル
+- README.md
+  - ドキュメント
+- ReactVersions.js
+  - React内で管理されているバージョン情報を記載したスクリプト
+- SECURITY.md
+  - セキュリティに関する報告方法やポリシーを記載
+- babel.config.js
+  - Babelの設定ファイル
+- dangerfile.js
+  - Danger.js（CIツール）用の設定ファイル
+- netlify.toml
+  - Netlify（デプロイサービス）の設定ファイル
+- package.json
+  - パッケージ管理
+- react.code-workspace
+  - VS Code用の ワークスペース設定ファイル
+- yarn.lock
+  - バージョン固定ファイル
