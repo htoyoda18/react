@@ -1,0 +1,1 @@
+- React Test Renderer をテストするための Jest 用マッチャーとユーティリティ
