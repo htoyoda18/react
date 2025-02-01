@@ -1,0 +1,2 @@
+- react-devtools-inline
+  - CodeSandbox、StackBlitz、ReplayなどのブラウザベースのツールにReact DevToolsを埋め込む

@@ -1,0 +1,2 @@
+- react-server-dom-esm
+  - DOMを対象としたESMを使用する実験的なReact Flightバインディング

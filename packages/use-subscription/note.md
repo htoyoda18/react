@@ -1,0 +1,3 @@
+- use-subscription
+  - 外部データソースを購読するためのReactフック
+  - 現在はuse-sync-external-storeに直接移行することが推奨

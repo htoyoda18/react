@@ -1,0 +1,2 @@
+- react-devtools-shared
+  - 複数のDevToolsパッケージ間で共有されるコード

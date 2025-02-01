@@ -1,0 +1,2 @@
+- react-devtools-shell
+  - react-devtools-inlineおよびreact-devtools-sharedパッケージへのローカルな変更をテストする

@@ -1,0 +1,2 @@
+- use-sync-external-store
+  - React.useSyncExternalStoreの後方互換
