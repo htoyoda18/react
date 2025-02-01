@@ -1,0 +1,2 @@
+- packages/react-suspense-test-utils
+  - まだリリースされていない実験的なReact機能と共に使用する

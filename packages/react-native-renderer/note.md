@@ -1,0 +1,2 @@
+- react-native-renderer
+  - react-nativeパッケージで使用されるレンダラー

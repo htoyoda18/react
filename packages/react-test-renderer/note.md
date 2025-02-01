@@ -1,0 +1,3 @@
+- react-test-renderer
+  - react-test-rendererは非推奨
+  - 今後のバージョンで削除

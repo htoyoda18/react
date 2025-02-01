@@ -1,0 +1,2 @@
+- react-debug-tools
+  - Reactレンダラーのデバッグ用に設計された実験的なパッケージ

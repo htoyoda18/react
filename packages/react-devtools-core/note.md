@@ -1,0 +1,2 @@
+- react-devtools-core
+  - React Nativeのようなレンダラーをサポートするための低レベルなAPIを提

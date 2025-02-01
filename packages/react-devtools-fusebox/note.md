@@ -1,0 +1,4 @@
+- react-devtools-fusebox
+  - このパッケージはプライベート
+  - 公開の予定はない
+  - Chrome DevToolsに基づいた新しいReact Nativeデバッガースタック
